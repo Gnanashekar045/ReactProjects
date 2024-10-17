@@ -10,7 +10,6 @@
 <body>
     <script>
         function reverseAndSortDesc(arr) {
-            // 
             arr.reverse();
 
             // Sort the array in descending order
