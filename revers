@@ -12,7 +12,7 @@
         function reverseAndSortDesc(arr) {
             arr.reverse();
 
-            // Sort the array in descending order
+            // Sort the array in descending 
             arr.sort((a, b) => b - a);
 
             return arr;
